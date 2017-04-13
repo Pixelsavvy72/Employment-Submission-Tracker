@@ -1,6 +1,8 @@
 # Employment-Submission-Tracker
 A C# and Winforms app to track job search submissions. Could easily be modified to track other types of submissions as well. 
 
+![Alt text](https://raw.githubusercontent.com/Stormseye72/Employment-Submission-Tracker/master/2017-04-13.png?raw=true "Submission Tracker")
+
 ## Functionality
 * Add new submissions via tabable fields at top of form. Date is automatically set to today's date, but is editable in the grid.
 * View and edit entries via the datagridview below the Add New Submission area. Datagridview is automatically refreshed when new entries are added.
