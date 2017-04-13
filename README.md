@@ -7,6 +7,7 @@ A C# and Winforms app to track job search submissions. Could easily be modified 
 * Add new submissions via tabable fields at top of form. Date is automatically set to today's date, but is editable in the grid.
 * View and edit entries via the datagridview below the Add New Submission area. Datagridview is automatically refreshed when new entries are added.
 * Hyperlink functionality for columns that contain web addresses.
+* Autocomplete/Suggest on appropriate fields.
 
 ## Notes
 * Currently requires local connection to a SQL database.
